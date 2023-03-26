@@ -1,0 +1,12 @@
+{
+  "name": "fullstacktrindadelab365-m01s05-exerc01",
+  "version": "1.0.0",
+  "description": "Quarto exercício da semana 05 do curso de Fullstack da turma Trindade onde é criada uma função para retornar dados filtrados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript","js","node","array","foreach"],
+  "author": "Ana Paula",
+  "license": "ISC"
+}
